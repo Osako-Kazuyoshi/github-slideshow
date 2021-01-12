@@ -1,3 +1,5 @@
 "New Slide"
 "おはようございます"
-github-slideshowに追加されます
+github-slideshowに追加した
+
+"これが区切りです"
